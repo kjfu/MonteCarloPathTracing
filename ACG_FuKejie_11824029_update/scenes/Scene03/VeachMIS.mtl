@@ -1,0 +1,68 @@
+newmtl VeachMIS:Light1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 901.80 901.80 901.80
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl VeachMIS:Light2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 100.00 100.00 100.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl VeachMIS:Light4
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.24 1.24 1.24
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl VeachMIS:Light5
+illum 4
+Kd 1.00 1.00 1.00
+Ka 800.00 800.00 800.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl VeachMIS:Light9
+illum 4
+Kd 0.64 0.64 0.64
+Ka 11.11 11.11 11.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl VeachMIS:diffuse
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl VeachMIS:glossy1
+illum 4
+Kd 0.07 0.09 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 40.00
+newmtl VeachMIS:glossy3
+illum 4
+Kd 0.07 0.09 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 80.00
+newmtl VeachMIS:glossy5
+illum 4
+Kd 0.07 0.09 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 200.00
+newmtl VeachMIS:glossy7
+illum 4
+Kd 0.07 0.09 0.13
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 800.00
