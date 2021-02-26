@@ -1,4 +1,4 @@
-# Monte-Carlo-Path-Tracing
+# Monte Carlo Path Tracing
 Zhejiang University Graduate Computer Graphics Coursework（2/2）
 
 本程序是基于Qt 5.11.2 clang 64 bit开发，经测试可以在macOS Mojave 10.14.4上正常运行，编译本程序需在安装QT的前提下，双击MonteCarloPathTracer.pro即可在QT Creator完成build。
